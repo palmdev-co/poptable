@@ -1,10 +1,8 @@
 # poptable
-=== SHORT DESCRIPTION (100 char max) — paste into "Summary" field ===
 
 A standard Power BI table with clickable rows that open a detail popup card.
 
 
-=== LONG DESCRIPTION (3000 char max) — paste into "Description" field ===
 
 PopTable is a Power BI custom visual that combines the familiarity of a standard table with an interactive popup detail card. Click any row to see additional fields in a clean overlay — perfect for dashboards where you need drill-down detail without navigating away.
 
